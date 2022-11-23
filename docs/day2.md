@@ -1,4 +1,4 @@
-# Day 2: Merge Conflicts
+# Day 2: Merge Conflicts 🚀
 
 ### In Class Activities:
 

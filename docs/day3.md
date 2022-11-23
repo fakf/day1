@@ -1,4 +1,4 @@
-# Day 3: `github-games`
+# Day 3: `github-games` 🤯
 
 ### In Class Activities:
 - Worked on another, third repository.
