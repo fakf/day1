@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Nov 23-24 2022
+- Facilitator: @jessehouwing
 
 ## Class Resources
 
