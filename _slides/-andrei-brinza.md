@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Andrei Brinza
 
 IMAGE
-{: .center}
+![My profile](https://avatars.githubusercontent.com/u/25672664?s=400&v=4)
